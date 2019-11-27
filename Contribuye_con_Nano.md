@@ -17,7 +17,7 @@
 <h2 id="aún-más-ayuda">Aún más ayuda</h2>
 <p>Si tiene interés en ayudar a la red o a la comunidad en otras competencias, no dude en comunicarse. A continuación hay enlaces a nuestro sitio web y la comunidad.<br>
 <a href="http://Nano.org">Nano.org</a> | <a href="https://github.com/nanocurrency">GitHub</a> | <a href="https://twitter.com/nano">Twitter</a> | <a href="https://discordapp.com/invite/JphbBas">Discord</a> | <a href="https://www.reddit.com/r/nanocurrency">Reddit</a> | <a href="https://medium.com/nanocurrency">Medium</a> | <a href="https://www.facebook.com/nanofoundation">Facebook</a> | <a href="https://www.linkedin.com/organization-guest/company/nano-foundation?challengeId=AQH3DTxSnL0_eQAAAW3ft0XOTlGFD__c_LaqITF7wOqcLeoIauTNT9NP5RsWEyen0Jbg-1IFts9MOxGmYVuolcDTy4eS_GUFfQ&amp;submissionId=73052a34-e2ca-ce15-2010-71270bdccc1a">LinkedIn</a> | <a href="https://www.youtube.com/nanocurrency">YouTube</a> | <a href="https://www.instagram.com/nanocurrency/">Instagram</a></p>
-<h2 id="fire-contribuye-al-código">🔥 Contribuye al código</h2>
+<h2 id="fire-contribuye-al-código">🔥 Contribuye con el código</h2>
 <p>Si está interesado en ayudar a desarrollar el nodo de Nano basado en C ++, ¡lo ayudaremos! Consulte nuestros detalles sobre cómo <a href="https://docs.nano.org/protocol-design/overview/#contributing-code-to-the-nano-node">contribuir al código del nodo de Nano</a> para comenzar.</p>
 <h1 id="explore-más">Explore más</h1>
 <h2 id="la-fundación-nano">La fundación Nano</h2>
